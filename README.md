@@ -14,7 +14,7 @@ I conducted a vulnerability assessment of the website's security including:
 4. Remote access security concerns, such as shared vendor accounts.
 5. Verification of proper separation between PROD, DEV, and TEST environments.
 6. Logging and monitoring, with emphasis on security event tracking, especially regarding vendor activities.
-Details about the project are provided here: Project: Security Assessment
+Details about the project are provided here: Project: [Security Assessment](https://github.com/eburkecenter/Springboard-Projects/blob/main/Mini-Project%2026_%20Security%20Assessment.xlsx)
 
 Project: I was tasked to create a software test plan, cases, and cycles for a new application that tracks the movement of company trucks through the United States. 
 This application collected data including locations, speed, direction, and cargo. I presented documentation outlining the project requirements as outlined by the project objectives. 
