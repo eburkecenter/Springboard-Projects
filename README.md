@@ -7,7 +7,7 @@ Projects are separated into 5 Categories: Security Assessment, Network Security,
 Project: I completed a project that prepared an organization for its annual security audit. 
 The organization faced several security and operational challenges related to its toll road operations, web application, server infrastructure, remote access, and logging practices. 
 My role was to evaluate and address these concerns to ensure a secure and efficient toll road management system. 
-I conducted a vulnerability assessment of the website's security including:
+I conducted a vulnerability assessment of the website's security, including:
 1. Vulnerability to web application attacks
 2. WebLogic server security. 
 3. Patch management and configuration data protection.
@@ -44,10 +44,14 @@ I presented this [Web Application Vulnerability Remediation](https://github.com/
 **Endpoint Security**
 
 Project: I was given a scenario involving a company that was in the process of integrating external systems. 
-The company wanted to ensure that the new systems were hardened prior to integration. 
+The company wanted to ensure that the new systems were hardened before integration. 
 I completed system hardening guidelines for Windows Server 2019, Oracle Linux, and Windows 10 machines. 
 Click [System Hardening](https://github.com/eburkecenter/Springboard-Projects/blob/main/Mini-Project%2011_%20System%20Hardening.pdf) for project details. 
 
 Project: I was given a project to provide a brief overview of whether extending Active Directory into Azure Cloud and creating desktop virtualization solutions can alleviate some of the network issues experienced by its customer service department. 
-I presented [Desktop Virtualization](https://github.com/eburkecenter/Springboard-Projects/blob/main/Mini-Project%2012_%20Desktop%20Virtualization.pdf) detailing the critical concerns of stakeholders including the type of virtualization platform, 
-the departments that will benefit from virtualization, the primary benefits to the company, and the potential pitfalls of virtualization. 
+I presented [Desktop Virtualization](https://github.com/eburkecenter/Springboard-Projects/blob/main/Mini-Project%2012_%20Desktop%20Virtualization.pdf) detailing the critical concerns of stakeholders, including the type of virtualization platform, the departments that will benefit from virtualization, the primary benefits to the company, and the potential pitfalls of virtualization. 
+
+**Complete a Tabletop Vulnerability Assessment**
+
+Project: I was given the task to set up and perform a Tabletop Assessment for a Simulated Company, Artemis Gas.
+The Tabletop Assessment encompassed the full spectrum of the Risk Management Framework (RMF), from risk identification and assessment to the development and validation of mitigation strategies. This assessment was presented as part of my [Capstone Project](https://github.com/eburkecenter/Springboard-Projects/blob/main/Capstone%20Project.pdf), which was reviewed and approved by Team Mentor.
